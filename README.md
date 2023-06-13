@@ -1,4 +1,4 @@
-# 3D-Object-Reconstruction
+# 3D-Object-Construction
 
 The final aim of the proposed problem is to obtain a 3D reconstruction of a 3D object/scene of your
 choice. Which requires to select and calibrate a camera, to select an adequate object/scene according to
